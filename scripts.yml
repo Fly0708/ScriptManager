@@ -1,0 +1,14 @@
+ft:
+  name:
+    FastTraceESLog
+  batPath:
+    E:\pythonProjects\scripts\FastTraceESLog\ft.bat
+  description:
+    get elk log by traceId
+jk:
+  name:
+    JenKinsDeployScript
+  batPath:
+    E:\pythonProjects\GitHub\JenKinsDepolyScript\JenkinsDeploy.bat
+  description:
+    jenkins deploy script

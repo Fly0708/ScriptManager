@@ -1,0 +1,1 @@
+%~dp0/venv/Scripts/python.exe %~dp0/main.py -c %~dp0\scripts.yml -r %*
